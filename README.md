@@ -1,4 +1,4 @@
-# Sector-Rotation-Strategy# Sector Rotation Strategy
+# Sector-Rotation-Strategy
 
 A comprehensive implementation of sector rotation strategies for portfolio management and optimization.
 
